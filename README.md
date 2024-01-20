@@ -6,6 +6,7 @@
 
 * **Stack (generic, ArrayList-based)**
 * **Singly Linked List (generic)**
+* **Double Linked List (generic)**
 
 ## Future Plans
 

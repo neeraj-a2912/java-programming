@@ -15,13 +15,13 @@
 
 ## Usage
 
-1. Clone the repository:
-2. Import the `Stack` class into your Java project.
-3. Create an instance of the `Stack` class:
+
+1. Import the `Stack` class into your Java project.
+2. Create an instance of the `Stack` class:
    ```java
    Stack<Integer> myStack = new Stack<>();
    ```
-4. Use the provided methods to interact with the stack:
+3. Use the provided methods to interact with the stack:
    ```java
    myStack.push(5);
    myStack.push(3);
