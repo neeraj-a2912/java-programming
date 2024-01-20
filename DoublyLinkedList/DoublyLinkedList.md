@@ -35,4 +35,32 @@
    ```
 4. Use the provided methods to interact with the doubly linked list.
 
+    ```java
+    // Create a doubly linked list of strings
+    DLL<String> myList = new DLL<>();
+    
+    // Add elements to the list
+    myList.addFirst("Alice");
+    myList.add("Bob");
+    myList.addLast("Charlie");
+    myList.addAtIndex(2, "David");
+    
+    // Print the list
+    myList.printLL();  // Output: null<->Alice<->David<->Bob<->Charlie<->null
+    
+    // Remove elements from the list
+    myList.removeFirst();
+    myList.removeAtIndex(1);
+    
+    // Print the updated list
+    myList.printLL();  // Output: null<->Bob<->Charlie<->null
+    
+    // Access values in the list
+    String firstElement = myList.getFirst();  // "Bob"
+    String lastElement = myList.getLast();  // "Charlie"
+    String thirdElement = myList.getValueAtIndex(2);  // null (index out of bounds)
+    
+    // Check if a value exists in the list
+    boolean containsDavid = myList.contains("David");  // false
+    ```
 
