@@ -11,7 +11,9 @@ public class Main {
         list.add("favourite");
         list.add("programming");
         list.add("language");
+
         list.printLL();
+//        System.out.println(list.contains("java"));
 
 //        System.out.println("First Element "+list.getFirst());
 //        System.out.println("last Element "+list.getLast());

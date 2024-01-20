@@ -148,6 +148,17 @@ class SLL<T> {
         return currNode.data;
     }
 
+    // method to check whether a given value exists in the list
+    public boolean contains(T val){
+        Node currNode = head;
+        while(currNode != null){
+            if(currNode.data==val){
+                return true;
+            }
+            currNode = currNode.next;
+        }
+        return false;
+    }
     // method to get the size of the linked list
     public int size(){
         return size;
