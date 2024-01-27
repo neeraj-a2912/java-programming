@@ -4,7 +4,7 @@
 
 This repository contains a Java implementation of a stack data structure using a singly linked list. The `StackSLL<T>` class provides efficient and generic operations for managing a stack of elements.
 
-**## Key Features**
+## Key Features
 
 - **LIFO Principle:** Follows the Last-In-First-Out principle for element retrieval.
 - **Generic Implementation:** Can store elements of any type `T`.
@@ -17,7 +17,7 @@ This repository contains a Java implementation of a stack data structure using a
     - `isEmpty()`: Checks if the stack is empty.
     - `print()`: Prints the elements of the stack (for debugging).
 
-**## Usage Example**
+## Usage Example
 
 ```java
 StackSLL<Integer> stack = new StackSLL<>();
