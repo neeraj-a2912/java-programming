@@ -8,11 +8,11 @@
 * **Singly Linked List (generic)**
 * **Double Linked List (generic)**
 * **Stack (LinkedList Based)**
+* **Queue (generic, ArrayList-based)**
 
 ## Future Plans
 
 * Implementation of additional data structures, including:
-    - Queues
     - Trees (binary trees, binary search trees, etc.)
     - Graphs
     - Heaps
