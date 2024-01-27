@@ -9,6 +9,7 @@
 * **Double Linked List (generic)**
 * **Stack (LinkedList Based)**
 * **Queue (generic, ArrayList-based)**
+* **Queue (LinkedList Based)**
 
 ## Future Plans
 
