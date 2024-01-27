@@ -21,4 +21,5 @@ public class Main {
 //        System.out.println("Size of the LL: "+list.size());
 
     }
+
 }
