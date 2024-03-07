@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/SinglyLinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/SinglyLinkedList/SinglyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackUsingSLL/StackUsingSLL.iml" filepath="$PROJECT_DIR$/StackUsingSLL/StackUsingSLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-programming.iml" filepath="$PROJECT_DIR$/java-programming.iml" />
     </modules>
   </component>
