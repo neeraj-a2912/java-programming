@@ -6,7 +6,6 @@ This repository implements a Trie data structure in Java. A Trie (or Prefix Tree
 
 * **Efficient insertion:** Inserts words into the Trie with a time complexity of O(length of word).
 * **Fast search:** Searches for the existence of a word in the Trie with a time complexity of O(length of word).
-* **Prefix search:** Checks if a given prefix matches the beginning of any word stored in the Trie, also with a time complexity of O(length of prefix).
 
 **Usage:**
 
@@ -34,7 +33,6 @@ trie.insert("banana");
 System.out.println(trie.search("apple"));  // Output: true
 System.out.println(trie.search("app"));    // Output: true
 System.out.println(trie.search("banana")); // Output: true
-System.out.println(trie.startsWith("appl")); // Output: true
-System.out.println(trie.startsWith("ban"));  // Output: true
+
 ```
 
