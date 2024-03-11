@@ -10,6 +10,7 @@
 * **Stack (LinkedList Based)**
 * **Queue (generic, ArrayList-based)**
 * **Queue (LinkedList Based)**
+* **Trie**
 
 ## Future Plans
 
